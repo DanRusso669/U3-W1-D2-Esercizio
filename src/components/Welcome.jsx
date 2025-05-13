@@ -1,5 +1,5 @@
 import { Component } from "react";
-import { Alert, Col, Container, Row } from "react-bootstrap";
+import { Alert, Container } from "react-bootstrap";
 
 class Welcome extends Component {
   render() {
