@@ -1,0 +1,13 @@
+#footerCont p {
+  margin: 0;
+  margin-left: 1rem;
+  margin-block: 1rem;
+}
+
+#alertCont {
+  height: calc(100vh - 56px - 56px);
+}
+
+#cardImage {
+  width: 100%;
+}
